@@ -2,7 +2,7 @@
 
 var config = {};
 
-config.port = process.env.PORT || 25565;
+config.port = process.env.PORT || 3000;
 
 
 module.exports = config;
